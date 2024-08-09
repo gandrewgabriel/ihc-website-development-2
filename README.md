@@ -1,4 +1,4 @@
-# Immersive Healthcare Collaboration Website
+# Immersive Healthcare Collaboration Website 
 
 This repository contains the development and distribution code for the Immersive Healthcare Collaboration website.
 
